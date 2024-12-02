@@ -54,3 +54,5 @@ The CNN model comprises:
 ### Research papers cited in the project:
 - [Sign Language Translator for Dumb and Deaf](https://www.researchgate.net/publication/378983202_Sign_Language_Translator_for_Dumb_and_Deaf)
 - KUNet: [AI-Based Bengali Sign Language Translator](https://www.researchgate.net/publication/384648125_KUNet-An_Optimized_AI_based_Bengali_Sign_Language_Translator_for_Deaf_and_Dumb_People)
+
+  Indepth Analysis and report is documented in the commit file
