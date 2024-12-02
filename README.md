@@ -19,7 +19,7 @@ The limited understanding of sign language in broader society restricts effectiv
 - Provide an automated and scalable solution using deep learning.
   
 ## Dataset Overview
-- Source: ASL Dataset on Kaggle
+- Source: [Dataset on Kaggle](https://www.kaggle.com/datasets/ayuraj/asl-dataset/data)
 - Classes: 36 (26 letters, 10 digits)
 ### Images per class
 - Training: 60
