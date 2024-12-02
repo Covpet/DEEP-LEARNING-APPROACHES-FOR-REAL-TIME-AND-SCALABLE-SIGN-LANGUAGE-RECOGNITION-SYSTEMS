@@ -38,3 +38,19 @@ The CNN model comprises:
 ### Fully Connected Layers:
 - Dense layer with 128 neurons.
 - Output layer with 36 neurons (softmax activation).
+
+## Results 
+- Training Accuracy: 96%
+- Validation Accuracy: 94%
+- Confusion Matrix: Visualizes model performance across all 36 classes.
+  
+## Future Directions
+- Dataset Expansion: Incorporate more diverse gestures.
+- Real-time Recognition: Integrate webcams for dynamic predictions.
+- Multi-language Support: Adapt the model for different sign languages.
+  
+## References
+- Dataset: Kaggle [Dataset on Kaggle](https://www.kaggle.com/datasets/ayuraj/asl-dataset/data)
+### Research papers cited in the project:
+- [Sign Language Translator for Dumb and Deaf](https://www.researchgate.net/publication/378983202_Sign_Language_Translator_for_Dumb_and_Deaf)
+- KUNet: [AI-Based Bengali Sign Language Translator](https://www.researchgate.net/publication/384648125_KUNet-An_Optimized_AI_based_Bengali_Sign_Language_Translator_for_Deaf_and_Dumb_People)
